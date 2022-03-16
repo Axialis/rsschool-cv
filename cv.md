@@ -42,4 +42,5 @@ console.log(spinWords("Hey fellow warriors"));
 
 ## Languages
 + Russian
++ Belarusian
 + English (B1)
