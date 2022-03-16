@@ -14,6 +14,7 @@ Medical device R&D Engineer. Experienced with all stage of development cycle ele
 + HTML and CSS
 + JS
 + Git
++ React
 
 ## Code Example
 ```js
